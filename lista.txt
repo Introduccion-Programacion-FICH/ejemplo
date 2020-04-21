@@ -4,5 +4,6 @@ peras
 manzanas
 bananas
 zapallitos
+calabaza
 
 Limpieza:
