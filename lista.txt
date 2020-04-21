@@ -1,9 +1,8 @@
-Comidas:
+Comidas sanas:
 
-pan
-galletitas
 peras
 manzanas
-
+bananas
+zapallitos
 
 Limpieza:
