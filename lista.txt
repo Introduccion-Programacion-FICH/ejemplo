@@ -1,3 +1,9 @@
 Comidas:
 
+pan
+galletitas
+peras
+manzanas
+
+
 Limpieza:
